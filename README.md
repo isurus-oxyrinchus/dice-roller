@@ -2,6 +2,8 @@
 
 ## Description
 
+For Ian ❤️
+
 This is a simple **Tkinter-based Dice Roller** GUI application. Users can select different types of dice (d4, d6, d8, d10, d12, d20) and specify the number of rolls to generate a randomized total.
 
 ## Features
